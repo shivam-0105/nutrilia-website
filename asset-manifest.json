@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nutrilia-website/static/css/main.a3426884.chunk.css",
+    "main.js": "/nutrilia-website/static/js/main.bf3d7aa0.chunk.js",
+    "main.js.map": "/nutrilia-website/static/js/main.bf3d7aa0.chunk.js.map",
+    "runtime-main.js": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js",
+    "runtime-main.js.map": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js.map",
+    "static/js/2.7c33f807.chunk.js": "/nutrilia-website/static/js/2.7c33f807.chunk.js",
+    "static/js/2.7c33f807.chunk.js.map": "/nutrilia-website/static/js/2.7c33f807.chunk.js.map",
+    "index.html": "/nutrilia-website/index.html",
+    "static/css/main.a3426884.chunk.css.map": "/nutrilia-website/static/css/main.a3426884.chunk.css.map",
+    "static/js/2.7c33f807.chunk.js.LICENSE.txt": "/nutrilia-website/static/js/2.7c33f807.chunk.js.LICENSE.txt",
+    "static/media/video.34d5e4df.mp4": "/nutrilia-website/static/media/video.34d5e4df.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8bc71b4.js",
+    "static/js/2.7c33f807.chunk.js",
+    "static/css/main.a3426884.chunk.css",
+    "static/js/main.bf3d7aa0.chunk.js"
+  ]
+}
