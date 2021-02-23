@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nutrilia-website/static/css/main.a3426884.chunk.css",
-    "main.js": "/nutrilia-website/static/js/main.d9a18aba.chunk.js",
-    "main.js.map": "/nutrilia-website/static/js/main.d9a18aba.chunk.js.map",
+    "main.js": "/nutrilia-website/static/js/main.3bf73a95.chunk.js",
+    "main.js.map": "/nutrilia-website/static/js/main.3bf73a95.chunk.js.map",
     "runtime-main.js": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js",
     "runtime-main.js.map": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js.map",
     "static/js/2.7c33f807.chunk.js": "/nutrilia-website/static/js/2.7c33f807.chunk.js",
@@ -10,12 +10,21 @@
     "index.html": "/nutrilia-website/index.html",
     "static/css/main.a3426884.chunk.css.map": "/nutrilia-website/static/css/main.a3426884.chunk.css.map",
     "static/js/2.7c33f807.chunk.js.LICENSE.txt": "/nutrilia-website/static/js/2.7c33f807.chunk.js.LICENSE.txt",
-    "static/media/video.34d5e4df.mp4": "/nutrilia-website/static/media/video.34d5e4df.mp4"
+    "static/media/corn.52f7626d.png": "/nutrilia-website/static/media/corn.52f7626d.png",
+    "static/media/jpg-1.d833a034.jpg": "/nutrilia-website/static/media/jpg-1.d833a034.jpg",
+    "static/media/mobileapp.577c7702.png": "/nutrilia-website/static/media/mobileapp.577c7702.png",
+    "static/media/noodles.d2aa8b0a.png": "/nutrilia-website/static/media/noodles.d2aa8b0a.png",
+    "static/media/sandwich.f975bc6b.png": "/nutrilia-website/static/media/sandwich.f975bc6b.png",
+    "static/media/svg-1.cc855249.svg": "/nutrilia-website/static/media/svg-1.cc855249.svg",
+    "static/media/svg-2.ea382037.svg": "/nutrilia-website/static/media/svg-2.ea382037.svg",
+    "static/media/svg-3.635510fb.svg": "/nutrilia-website/static/media/svg-3.635510fb.svg",
+    "static/media/video.34d5e4df.mp4": "/nutrilia-website/static/media/video.34d5e4df.mp4",
+    "static/media/waffle.9973c8e4.png": "/nutrilia-website/static/media/waffle.9973c8e4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8bc71b4.js",
     "static/js/2.7c33f807.chunk.js",
     "static/css/main.a3426884.chunk.css",
-    "static/js/main.d9a18aba.chunk.js"
+    "static/js/main.3bf73a95.chunk.js"
   ]
 }
