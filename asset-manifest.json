@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nutrilia-website/static/css/main.a3426884.chunk.css",
-    "main.js": "/nutrilia-website/static/js/main.3bf73a95.chunk.js",
-    "main.js.map": "/nutrilia-website/static/js/main.3bf73a95.chunk.js.map",
+    "main.js": "/nutrilia-website/static/js/main.3ca8df3a.chunk.js",
+    "main.js.map": "/nutrilia-website/static/js/main.3ca8df3a.chunk.js.map",
     "runtime-main.js": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js",
     "runtime-main.js.map": "/nutrilia-website/static/js/runtime-main.b8bc71b4.js.map",
     "static/js/2.7c33f807.chunk.js": "/nutrilia-website/static/js/2.7c33f807.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.b8bc71b4.js",
     "static/js/2.7c33f807.chunk.js",
     "static/css/main.a3426884.chunk.css",
-    "static/js/main.3bf73a95.chunk.js"
+    "static/js/main.3ca8df3a.chunk.js"
   ]
 }
